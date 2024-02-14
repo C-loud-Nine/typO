@@ -25,4 +25,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-![readme typo](https://github.com/C-loud-Nine/typO/assets/104518333/f2fb7c43-bd17-4342-8950-1fc0ccba11e9)
+![readme typo](https://github.com/C-loud-Nine/typO/assets/104518333/1b8246ea-68f7-498e-8b35-4df3fafc60c8)
